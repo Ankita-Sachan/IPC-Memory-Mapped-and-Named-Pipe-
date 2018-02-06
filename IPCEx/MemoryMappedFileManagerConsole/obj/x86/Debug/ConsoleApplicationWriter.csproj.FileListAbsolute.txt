@@ -1,0 +1,14 @@
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerConsole\bin\Debug\MemoryMappedFileManagerConsole.exe
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerConsole\bin\Debug\MemoryMappedFileManagerConsole.pdb
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerConsole\bin\Debug\MemoryMappedFileManager.dll
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerConsole\bin\Debug\MemoryMappedFileManager.pdb
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerConsole\obj\x86\Debug\ConsoleApplicationWriter.csprojResolveAssemblyReference.cache
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerConsole\obj\x86\Debug\MemoryMappedFileManagerConsole.exe
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerConsole\obj\x86\Debug\MemoryMappedFileManagerConsole.pdb
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerConsole\obj\x86\Debug\MemoryMappedFileManagerConsole.exe
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerConsole\obj\x86\Debug\MemoryMappedFileManagerConsole.pdb
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerConsole\bin\Debug\MemoryMappedFileManagerConsole.exe
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerConsole\bin\Debug\MemoryMappedFileManagerConsole.pdb
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerConsole\bin\Debug\MemoryMappedFileManager.dll
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerConsole\bin\Debug\MemoryMappedFileManager.pdb
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerConsole\obj\x86\Debug\ConsoleApplicationWriter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+F:\MyProject\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManagerWindowsApp.exe
+F:\MyProject\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManagerWindowsApp.pdb
+F:\MyProject\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManager.dll
+F:\MyProject\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManager.pdb
+F:\MyProject\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.csprojResolveAssemblyReference.cache
+F:\MyProject\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.frmMain.resources
+F:\MyProject\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.Properties.Resources.resources
+F:\MyProject\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.csproj.GenerateResource.Cache
+F:\MyProject\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.exe
+F:\MyProject\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.pdb

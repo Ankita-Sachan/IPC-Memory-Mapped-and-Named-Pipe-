@@ -1,0 +1,13 @@
+D:\SP\IPCwithMMF\C#\NamedPipeLibrary\obj\Debug\NamedPipeLibrary.csprojResolveAssemblyReference.cache
+D:\SP\IPCwithMMF\C#\NamedPipeLibrary\bin\Debug\NamedPipeLibrary.dll
+D:\SP\IPCwithMMF\C#\NamedPipeLibrary\bin\Debug\NamedPipeLibrary.pdb
+D:\SP\IPCwithMMF\C#\NamedPipeLibrary\obj\Debug\NamedPipeLibrary.dll
+D:\SP\IPCwithMMF\C#\NamedPipeLibrary\obj\Debug\NamedPipeLibrary.pdb
+D:\IPCEx\NamedPipeLibrary\bin\Debug\NamedPipeLibrary.dll
+D:\IPCEx\NamedPipeLibrary\bin\Debug\NamedPipeLibrary.pdb
+D:\IPCEx\NamedPipeLibrary\bin\Debug\CommonLibrary.dll
+D:\IPCEx\NamedPipeLibrary\bin\Debug\LightInject.dll
+D:\IPCEx\NamedPipeLibrary\bin\Debug\CommonLibrary.pdb
+D:\IPCEx\NamedPipeLibrary\obj\Debug\NamedPipeLibrary.csprojResolveAssemblyReference.cache
+D:\IPCEx\NamedPipeLibrary\obj\Debug\NamedPipeLibrary.dll
+D:\IPCEx\NamedPipeLibrary\obj\Debug\NamedPipeLibrary.pdb

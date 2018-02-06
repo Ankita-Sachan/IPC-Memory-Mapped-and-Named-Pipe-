@@ -1,0 +1,7 @@
+D:\IPCEx\MemoryMappedFileManager\bin\Debug\MemoryMappedFileManager.dll
+D:\IPCEx\MemoryMappedFileManager\bin\Debug\MemoryMappedFileManager.pdb
+D:\IPCEx\MemoryMappedFileManager\bin\Debug\log4net.dll
+D:\IPCEx\MemoryMappedFileManager\bin\Debug\log4net.xml
+D:\IPCEx\MemoryMappedFileManager\obj\Debug\MemoryMapFileLibrary.csprojResolveAssemblyReference.cache
+D:\IPCEx\MemoryMappedFileManager\obj\Debug\MemoryMappedFileManager.dll
+D:\IPCEx\MemoryMappedFileManager\obj\Debug\MemoryMappedFileManager.pdb

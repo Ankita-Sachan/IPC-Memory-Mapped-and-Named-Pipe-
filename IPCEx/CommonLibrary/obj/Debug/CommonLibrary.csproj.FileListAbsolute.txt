@@ -1,0 +1,7 @@
+D:\IPCEx\CommonLibrary\bin\Debug\CommonLibrary.dll
+D:\IPCEx\CommonLibrary\bin\Debug\CommonLibrary.pdb
+D:\IPCEx\CommonLibrary\bin\Debug\LightInject.dll
+D:\IPCEx\CommonLibrary\bin\Debug\log4net.dll
+D:\IPCEx\CommonLibrary\bin\Debug\log4net.xml
+D:\IPCEx\CommonLibrary\obj\Debug\CommonLibrary.dll
+D:\IPCEx\CommonLibrary\obj\Debug\CommonLibrary.pdb

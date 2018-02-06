@@ -1,0 +1,5 @@
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManager\bin\Debug\MemoryMappedFileManager.dll
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManager\bin\Debug\MemoryMappedFileManager.pdb
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManager\obj\Debug\IPCThroughMemoryMap.csprojResolveAssemblyReference.cache
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManager\obj\Debug\MemoryMappedFileManager.dll
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManager\obj\Debug\MemoryMappedFileManager.pdb

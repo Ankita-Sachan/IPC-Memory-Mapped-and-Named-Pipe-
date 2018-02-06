@@ -1,0 +1,342 @@
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+System.InvalidOperationException: Pipe hasn't been connected yet.
+   at System.IO.Pipes.NamedPipeServerStream.CheckDisconnectOperations()
+   at System.IO.Pipes.NamedPipeServerStream.Disconnect()
+   at NamedPipeLibrary.NamedPipeServer.finalizeServer() in D:\IPCEx\NamedPipeLibrary\NamedPipeServer\NamedPipeServer.cs:line 132
+The pipe was not opened asynchronously.-or-A pipe connection has already been established.-or-The pipe handle has not been set.
+System.InvalidOperationException: Pipe hasn't been connected yet.
+   at System.IO.Pipes.NamedPipeServerStream.CheckDisconnectOperations()
+   at System.IO.Pipes.NamedPipeServerStream.Disconnect()
+   at NamedPipeLibrary.NamedPipeServer.finalizeServer() in D:\IPCEx\NamedPipeLibrary\NamedPipeServer\NamedPipeServer.cs:line 132
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeClient.Start()
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeClient.Start()
+System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 47
+Moq.MockException: IDisposable.Dispose() invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeClient.finalizeClient() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 103
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 50
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 50
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 50
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 50
+System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 43
+Moq.MockException: IDisposable.Dispose() invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeClient.finalizeClient() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 101
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 50
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 50
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 43
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 43
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 43
+Moq.MockException: IDisposable.Dispose() invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeClient.finalizeClient() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 101
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 43
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 43
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 43
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 43
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 43
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 47
+System.ArgumentException: Object of type 'System.EventArgs' cannot be converted to type 'NamedPipeLibrary.MessageReceivedEventArgs'.
+   at System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   at System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   at System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Moq.Extensions.InvokePreserveStack(Delegate del, Object[] args) in C:\projects\moq4\Source\Extensions.cs:line 108
+   at Moq.Mock.DoRaise(EventInfo ev, EventArgs args) in C:\projects\moq4\Source\Mock.cs:line 1004
+   at Moq.MethodCall.Execute(ICallContext call) in C:\projects\moq4\Source\MethodCall.cs:line 300
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 76
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeServer.finalizeServer() in D:\IPCEx\NamedPipeLibrary\NamedPipeServer\NamedPipeServer.cs:line 145
+System.ArgumentException: Object of type 'System.EventArgs' cannot be converted to type 'NamedPipeLibrary.MessageReceivedEventArgs'.
+   at System.RuntimeType.TryChangeType(Object value, Binder binder, CultureInfo culture, Boolean needsSpecialCast)
+   at System.RuntimeType.CheckValue(Object value, Binder binder, CultureInfo culture, BindingFlags invokeAttr)
+   at System.Reflection.MethodBase.CheckArguments(Object[] parameters, Binder binder, BindingFlags invokeAttr, CultureInfo culture, Signature sig)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at Moq.Extensions.InvokePreserveStack(Delegate del, Object[] args) in C:\projects\moq4\Source\Extensions.cs:line 108
+   at Moq.Mock.DoRaise(EventInfo ev, EventArgs args) in C:\projects\moq4\Source\Mock.cs:line 1004
+   at Moq.MethodCall.Execute(ICallContext call) in C:\projects\moq4\Source\MethodCall.cs:line 300
+   at Moq.ExecuteCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 76
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeServer.finalizeServer() in D:\IPCEx\NamedPipeLibrary\NamedPipeServer\NamedPipeServer.cs:line 145
+Moq.MockException: INamedPipeStream.BeginWrite("test") invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginWrite(String message)
+   at NamedPipeLibrary.NamedPipeClient.SendMessage(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 73
+Moq.MockException: INamedPipeStream.BeginWrite("test") invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginWrite(String message)
+   at NamedPipeLibrary.NamedPipeClient.SendMessage(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 73
+Moq.MockException: INamedPipeStream.BeginWrite("test") invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginWrite(String message)
+   at NamedPipeLibrary.NamedPipeClient.SendMessage(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 73
+Moq.MockException: INamedPipeStream.BeginWrite("test") invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginWrite(String message)
+   at NamedPipeLibrary.NamedPipeClient.SendMessage(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 73
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.ReadMessage() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 87
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 55
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.ReadMessage() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 84
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 51
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.ReadMessage() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 84
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 51
+Moq.MockException: INamedPipeStream.BeginRead(NamedPipeLibrary.MessageInformation) invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.BeginRead(MessageInformation messageInformation)
+   at NamedPipeLibrary.NamedPipeClient.ReadMessage() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 84
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 51
+Moq.MockException: IDisposable.Dispose() invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeClient.finalizeClient() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 104
+Moq.MockException: IDisposable.Dispose() invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeClient.finalizeClient() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 104
+Moq.MockException: IDisposable.Dispose() invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeClient.finalizeClient() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 104
+Moq.MockException: IDisposable.Dispose() invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeClient.finalizeClient() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 104
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeServer.WaitForConnectionCallBack(IAsyncResult result) in D:\IPCEx\NamedPipeLibrary\NamedPipeServer\NamedPipeServer.cs:line 100
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeServer.WaitForConnectionCallBack(IAsyncResult result) in D:\IPCEx\NamedPipeLibrary\NamedPipeServer\NamedPipeServer.cs:line 100
+System.InvalidOperationException: Pipe hasn't been connected yet.
+   at System.IO.Pipes.NamedPipeServerStream.CheckDisconnectOperations()
+   at System.IO.Pipes.NamedPipeServerStream.Disconnect()
+   at NamedPipeLibrary.NamedPipeServer.finalizeServer() in D:\IPCEx\NamedPipeLibrary\NamedPipeServer\NamedPipeServer.cs:line 120
+System.ObjectDisposedException: Cannot access a closed pipe.
+   at System.IO.__Error.PipeNotOpen()
+   at System.IO.Pipes.NamedPipeServerStream.CheckConnectOperationsServer()
+   at System.IO.Pipes.NamedPipeServerStream.EndWaitForConnection(IAsyncResult asyncResult)
+   at NamedPipeLibrary.NamedPipeServer.WaitForConnectionCallBack(IAsyncResult result) in D:\IPCEx\NamedPipeLibrary\NamedPipeServer\NamedPipeServer.cs:line 95
+Moq.MockException: IDisposable.Dispose() invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeClient.finalizeClient() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 104
+Moq.MockException: IDisposable.Dispose() invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeClient.finalizeClient() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 104
+Moq.MockException: IDisposable.Dispose() invocation failed with mock behavior Strict.
+All invocations on the mock must have a corresponding setup.
+   at Moq.ExtractProxyCall.HandleIntercept(ICallContext invocation, InterceptorContext ctx, CurrentInterceptContext localctx) in C:\projects\moq4\Source\InterceptorStrategies.cs:line 138
+   at Moq.Interceptor.Intercept(ICallContext invocation) in C:\projects\moq4\Source\Interceptor.cs:line 151
+   at Moq.Proxy.CastleProxyFactory.Interceptor.Intercept(IInvocation invocation) in C:\projects\moq4\Source\Proxy\CastleProxyFactory.cs:line 174
+   at Castle.DynamicProxy.AbstractInvocation.Proceed()
+   at Castle.Proxies.ObjectProxy.Dispose()
+   at NamedPipeLibrary.NamedPipeClient.finalizeClient() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 104

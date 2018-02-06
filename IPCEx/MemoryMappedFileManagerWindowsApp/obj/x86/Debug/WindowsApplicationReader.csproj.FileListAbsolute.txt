@@ -1,0 +1,20 @@
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManagerWindowsApp.exe
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManagerWindowsApp.pdb
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManager.dll
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManager.pdb
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\WindowsApplicationReader.csprojResolveAssemblyReference.cache
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.frmMain.resources
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.Properties.Resources.resources
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\WindowsApplicationReader.csproj.GenerateResource.Cache
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.exe
+F:\MyProject\SP\Inter-process communication with Memory Mapped Files\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.pdb
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.exe
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.pdb
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManagerWindowsApp.exe
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManagerWindowsApp.pdb
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManager.dll
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerWindowsApp\bin\Debug\MemoryMappedFileManager.pdb
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\WindowsApplicationReader.csprojResolveAssemblyReference.cache
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.frmMain.resources
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\MemoryMappedFileManagerWindowsApp.Properties.Resources.resources
+D:\SP\IPCwithMMF\C#\MemoryMappedFileManagerWindowsApp\obj\x86\Debug\WindowsApplicationReader.csproj.GenerateResource.Cache

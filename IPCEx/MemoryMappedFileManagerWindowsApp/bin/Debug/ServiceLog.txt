@@ -1,0 +1,272 @@
+NamedPipeStream : Write and Message : ertyui
+NamedPipeStream : Write and Message : asdfg
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeClient.SendMessage(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 64
+NamedPipeStream : Write and Message : ankita
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : asdfg
+NamedPipeStream : Write and Message : asdfg
+NamedPipeStream : Write and Message : asdfg
+NamedPipeStream : Write and Message : asdfg
+NamedPipeStream : Write and Message : asdfg
+NamedPipeStream : Write and Message : asdfg
+NamedPipeStream : Write and Message : asdfg
+NamedPipeStream : Write and Message : asdfg
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : asdf
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : sachan
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ankita sachan by pipe
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ankita sachsan
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ankitasachan
+NamedPipeStream : Write and Message : ankitasachan
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ankitasachan
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ankitasachan
+System.IO.IOException: Pipe is broken.
+   at System.IO.Pipes.PipeStream.WinIOError(Int32 errorCode)
+   at System.IO.Pipes.PipeStream.EndWrite(IAsyncResult asyncResult)
+   at System.IO.Pipes.PipeStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.Pipes.PipeStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.Write(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 42
+The server is connected to another client and the time-out period has expired.System.IO.IOException: The parameter is incorrect.
+
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Pipes.PipeStream.WinIOError(Int32 errorCode)
+   at System.IO.Pipes.PipeStream.set_ReadMode(PipeTransmissionMode value)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 46
+NamedPipeStream : Write and Message : ankita
+System.Exception: pipe is not connected
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.Write(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 46
+NamedPipeStream : Write and Message : ankita
+client_OnConnect : client connected.
+System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 44
+NamedPipeStream : Write and Message : asdfg
+System.Exception: pipe is not connected
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.Write(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 46
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ankita
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : fsfdsfs
+System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 44
+NamedPipeStream : Write and Message : asdfg
+System.Exception: pipe is not connected
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.Write(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 46
+NamedPipeStream : Write and Message : asdfg
+System.Exception: pipe is not connected
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.Write(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 46
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : dfghj
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : asdfghj
+NamedPipeStream : Write and Message : asdfghj
+NamedPipeStream : Write and Message : asdfghj
+System.IO.IOException: Pipe is broken.
+   at System.IO.Pipes.PipeStream.WinIOError(Int32 errorCode)
+   at System.IO.Pipes.PipeStream.BeginWriteCore(Byte[] buffer, Int32 offset, Int32 count, AsyncCallback callback, Object state)
+   at System.IO.Pipes.PipeStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.Pipes.PipeStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 42
+NamedPipeStream : Write and Message : asdfghj
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 46
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : asdfgh
+NamedPipeStream : Write and Message : asdfghrtyyuu
+System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 36
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ankita sachan
+client_OnConnect : client connected.
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : assdd
+NamedPipeStream : Write and Message : assdd
+NamedPipeStream : Write and Message : assdd
+System.ObjectDisposedException: Cannot access a closed pipe.
+   at System.IO.__Error.PipeNotOpen()
+   at System.IO.Pipes.PipeStream.CheckWriteOperations()
+   at System.IO.Pipes.PipeStream.Flush()
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.Dispose() in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 96
+   at NamedPipeLibrary.NamedPipeClient.finalizeClient() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 92
+client_OnConnect : client connected.
+System.ObjectDisposedException: Cannot access a closed pipe.
+   at System.IO.__Error.PipeNotOpen()
+   at System.IO.Pipes.PipeStream.CheckWriteOperations()
+   at System.IO.Pipes.PipeStream.Flush()
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.Dispose() in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 97
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : qwerty
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 36
+NamedPipeStream : Write and Message : qwerty123456
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 38
+NamedPipeStream : Write and Message : qwerty123456
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 38
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : asdfg
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : asdfg
+Client Already Connected : System.ObjectDisposedException: Cannot access a closed pipe.
+   at System.IO.__Error.PipeNotOpen()
+   at System.IO.Pipes.NamedPipeClientStream.CheckConnectOperationsClient()
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 36
+NamedPipeStream : Write and Message : asdfg
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 45
+NamedPipeStream : Write and Message : asdfg
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.StreamOperation.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 45
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : asdfghj
+NamedPipeStream : Write and Message : ankita
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 83
+System.TimeoutException: The operation has timed out.
+   at System.IO.Pipes.NamedPipeClientStream.Connect(Int32 timeout)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 38
+NamedPipeStream : Write and Message : ankita
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 83
+NamedPipeStream : Write and Message : ankita
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 83
+System.InvalidOperationException: Pipe hasn't been connected yet.
+   at System.IO.Pipes.PipeStream.CheckWriteOperations()
+   at System.IO.Pipes.PipeStream.WaitForPipeDrain()
+   at NamedPipeLibrary.NamedPipeStream.Dispose() in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 96
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : asdf
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 83
+NamedPipeStream : Write and Message : asdf
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 83
+NamedPipeStream : Write and Message : asdf
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 83
+NamedPipeStream : Write and Message : asdf
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 83
+NamedPipeStream : Write and Message : asdf
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 83
+NamedPipeStream : Write and Message : asdf
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 83
+NamedPipeStream : Write and Message : asdf
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 83
+NamedPipeStream : Write and Message : asdf
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\NamedPipeStream.cs:line 83
+client_OnConnect : client connected.
+System.NotImplementedException: The method or operation is not implemented.
+   at MemoryMappedFileManagerWindowsApp.frmMain.server_OnConnect(Object sender, EventArgs e) in D:\IPCEx\MemoryMappedFileManagerWindowsApp\frmMain.cs:line 70
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 45
+NamedPipeStream : Write and Message : asdfg
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 83
+NamedPipeStream : Write and Message : asdfg
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 83
+NamedPipeStream : Write and Message : asdfg
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 83
+System.InvalidOperationException: Pipe hasn't been connected yet.
+   at System.IO.Pipes.PipeStream.CheckWriteOperations()
+   at System.IO.Pipes.PipeStream.WaitForPipeDrain()
+   at NamedPipeLibrary.NamedPipeStream.Dispose() in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 96
+client_OnConnect : client connected.
+System.NotImplementedException: The method or operation is not implemented.
+   at MemoryMappedFileManagerWindowsApp.frmMain.server_OnConnect(Object sender, EventArgs e) in D:\IPCEx\MemoryMappedFileManagerWindowsApp\frmMain.cs:line 70
+   at System.EventHandler.Invoke(Object sender, EventArgs e)
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 45
+NamedPipeStream : Write and Message : ankita
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 83
+NamedPipeStream : Write and Message : ankita
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 39
+NamedPipeStream : Write and Message : ankita
+System.Exception: Pipe is not connected
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 83
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 39
+NamedPipeStream : Write and Message : ankita
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ankita
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ankita
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ankita sa
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ankita1
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : asdfgh
+NamedPipeStream : Write and Message : asdfgh
+System.IO.IOException: Pipe is broken.
+   at System.IO.Pipes.PipeStream.WinIOError(Int32 errorCode)
+   at System.IO.Pipes.PipeStream.BeginWriteCore(Byte[] buffer, Int32 offset, Int32 count, AsyncCallback callback, Object state)
+   at System.IO.Pipes.PipeStream.WriteCore(Byte[] buffer, Int32 offset, Int32 count)
+   at System.IO.Pipes.PipeStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 92
+NamedPipeStream : Write and Message : asdfgh
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : tete
+NamedPipeStream : Write and Message : tete
+System.IO.IOException: Pipe is broken.
+   at System.IO.Pipes.PipeStream.CheckWriteOperations()
+   at System.IO.Pipes.PipeStream.Write(Byte[] buffer, Int32 offset, Int32 count)
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 92
+NamedPipeStream : Write and Message : tete
+client_OnConnect : client connected.
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : asdf
+client_OnConnect : client connected.
+client_OnConnect : client connected.
+client_OnConnect : client connected.
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : asdfg
+NamedPipeStream : Write and Message : asdfg
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : errt
+client_OnConnect : client connected.
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : qwert
+NamedPipeStream : Write and Message : qwert234
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : qwertyu
+NamedPipeStream : Write and Message : qwertyu7777
+NamedPipeStream : Write and Message : qwert2346
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeClient.Start() in D:\IPCEx\NamedPipeLibrary\NamedPipeClient\NamedPipeClient.cs:line 44
+NamedPipeStream : Write and Message : assa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 88
+NamedPipeStream : Write and Message : assa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 88
+NamedPipeStream : Write and Message : assa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 88
+NamedPipeStream : Write and Message : assa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 88
+NamedPipeStream : Write and Message : assa
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at NamedPipeLibrary.NamedPipeStream.BeginWrite(String message) in D:\IPCEx\NamedPipeLibrary\PipeStream\NamedPipeStream.cs:line 88
+client_OnConnect : client connected.
+NamedPipeStream : Write and Message : ghj
